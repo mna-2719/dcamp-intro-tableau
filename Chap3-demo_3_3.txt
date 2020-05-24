@@ -1,6 +1,6 @@
 Your first highlight table
 
-Now it's your turn! You've been asked to build a highlight table that shows the number of stomach cancer cases in African countries during the period 2006-2008. Below you can see what your result should look like.
+Now it's your turn! You've been asked to build a highlight table that shows the number of stomach cancer cases in African countries during the period 2006-2008.
 
 To build this table you need to:
 
