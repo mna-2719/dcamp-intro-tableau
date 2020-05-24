@@ -9,8 +9,6 @@ To build this map you need to:
     Remove the halo.
     Add a Map layer responsible for showing the Coastline.
 
-This exercise builds upon what you created in the previous exercise. If you lost progress, load the workbook 3_2_More_symbol_map_options.twbx from the Workbooks folder on the Desktop.
-
 Looking at your map, you should be able to answer the following question.
 
 Was the population growth of the United Kingdom positive or negative?
