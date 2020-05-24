@@ -20,24 +20,3 @@ This exercise builds upon what you created in the previous exercise. If you lost
 
 What is the value of 1 GBP in USD on April 16, 2018?
 1.4324
-
-Hint
-
-    At the bottom of the workbook, click the "New Worksheet" icon. Right-click the new worksheet tab and name it "Currency".
-    Select the Date dimension and the Fxcadusd, Fxgbpusd, and Fxjpyusd measures simultaneously.
-    Select the "lines (continuous)" plot type in the "Show Me" panel.
-    Make Fxcadusd, Fxgbpusd, and Fxjpyusd dimensions in the Rows shelf.
-    Convert YEAR(Date) to DAY(Date) by right-clicking it in the Columns shelf and selecting the "Day" option.
-    Click the "Fxcadusd" marks card, then click "Color", then select more colors, then enter the hex code FF0000.
-    Click the "Fxgbpusd" marks card, then click "Color", then select more colors, then enter the hex code 001F7E.
-    Click the "Fxjpyusd" marks card, then click "Color", then select more colors, then enter the hex code C70025.
-    Right-click the x-axis then click "Edit Axis". Click "Tick Marks" then select "Fixed" under "Major Tick Marks".
-    Click "All" in "Marks" card, then click "Tooltip".
-    Write the following in the tooltip text box:
-
-Day of Date:    <DAY(Date)>
-1 CAD is worth    <Fxcadusd> USD
-1 GBP is worth    <Fxgbpusd> USD
-1 JPY is wortH    <Fxjpyusd> USD
-
-    Double-click the plot titles of all views and add something like "My investment in [Stock Name]" or "The currencies of my portfolio".
