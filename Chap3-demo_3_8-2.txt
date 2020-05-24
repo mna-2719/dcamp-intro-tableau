@@ -9,7 +9,5 @@ To build this line chart you need to:
 
 This exercise builds upon what you created in the previous exercise. If you lost progress, load the workbook 3_12_Forecasting.twbx from the Workbooks folder on the Desktop.
 
-Looking at this visualization, you should be able to answer the following question.
-
 How many births do we expect in Portugal in November 2019?
 7363
