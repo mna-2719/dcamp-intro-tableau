@@ -9,7 +9,6 @@ Standard deviation is a useful aggregation for analyzing how much data varies. I
 Which country has the highest standard deviation on the Life Expectancy measure?
 
 Possible Answers
-
     Lebanon
     Maldives
     Andorra
