@@ -2,9 +2,6 @@ Filtering for null values
 
 We want to know for which countries we lack values for the measures Cell Phones per 100 people and Broadband Subscribers per 100 people.
 
-    Load the 2_3_Filtering_for_null_values.twbx workbook (located in the Workbooks folder on the Desktop).
-    Use the filter functionality to filter the measures for null values.
-
 Through filtering, you should be able to answer the following question:
 
 Which country has null values for both Cell Phones per 100 people and Broadband Subscribers per 100 people in 2010?
