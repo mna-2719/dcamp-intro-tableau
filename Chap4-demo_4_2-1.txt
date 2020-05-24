@@ -6,15 +6,5 @@ In this exercise, you'll create the same plot as in the previous demos and exerc
     Make the plots grey.
     Add a new line to the top of the tooltip that says "Every little helps" in bold italics.
 
-If you don't see the Show Me button, that's because your window is too small. In Tableau, the Show Me button will appear or disappear from the toolbar depending on the size of the application window. You can make it appear by:
-
-    pressing Ctrl + 1 (the number one, not the letter L)
-    making your browser full screen
-    reducing the size of this left pane by dragging it to the left
-
-This exercise builds upon what you created in the previous exercise. If you lost progress, load the workbook 4_2_Use_tooltips.twbx from the Workbooks folder on the Desktop.
-
-Expected plot
-
 How many shares of Tesco did you own on April 23, 2018?
 200
