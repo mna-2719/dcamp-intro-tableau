@@ -7,8 +7,6 @@ To build this line chart you need to:
     Remove the reference line you created before.
     Add a linear trend line for the number of births over time.
 
-This exercise builds upon what you created in the previous exercise. If you lost progress, load the workbook 3_11_Trend_lines.twbx from the Workbooks folder on the Desktop.
-
 Is there an upward or downward trend in the number of births in Portugal during the 2012-2018 period?
 
 Possible Answers
