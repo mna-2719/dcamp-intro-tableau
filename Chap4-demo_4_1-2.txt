@@ -17,12 +17,3 @@ Expected plot
 
 What is the price of the Facebook stock on December 24, 2018?
 124.06
-
-
-    At the bottom of the workbook, click the "New Worksheet" icon. Right-click the new worksheet tab and name it "Facebook".
-    Select the Date dimension, the FB Shares measure, and the FB Price measure simultaneously.
-    Select the "Dual combination" plot type in the "Show Me" panel.
-    Make SUM(FB Shares) a dimension in the Rows shelf by right-clicking it and selecting "Dimension".
-    Make SUM(FB Price) a dimension in the Rows shelf by right-clicking it and selecting "Dimension".
-    Convert YEAR(Date) to DAY(Date) by right-clicking it in the Columns shelf and selecting the "Day" option.
-    Click "Format" in the toolbar, then "Font…", then select "Segoe UI" for all of the font dropdown menus.
