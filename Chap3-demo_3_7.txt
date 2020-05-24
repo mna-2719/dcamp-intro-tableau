@@ -10,12 +10,6 @@ To build this line chart you need to:
     Filter the data on the Years 2013-2018.
     Add a reference line indicating the maximum number of births in the chart.
 
-If you don't see the Show Me button, that's because your window is too small. In Tableau, the Show Me button will appear or disappear from the toolbar depending on the size of the application window. You can make it appear by:
-
-    pressing Ctrl + 1 (the number one, not the letter L)
-    making your browser full screen
-    reducing the size of this left pane by dragging it to the left
-
 Looking at this visualization, you should be able to answer the following question.
 
 What was the maximum number of monthly births in Portugal during the 2013-2018 period?
