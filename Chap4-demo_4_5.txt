@@ -6,10 +6,6 @@ You have one dashboard for your individual stocks (share volume and share price)
     Drag the "Stocks" dashboard to the first story point.
     Create a second story point and drag the "Currency and Value" dashboard to it.
 
-This exercise builds upon what you created in the previous exercise. If you lost progress, load the workbook 4_9_Create_a_story.twbx from the Workbooks folder on the Desktop.
-
-Expected plot
-
 What is the name of the button directly below <strong>New story point</strong> when in a story sheet?
 Blank
 
