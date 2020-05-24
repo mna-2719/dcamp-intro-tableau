@@ -1,6 +1,6 @@
 Trend lines
 
-Next, you are asked to investigate the trend in the number of births in Portugal during the same period. You can easily spot this by adding a trend line. Below you can see what the final visualization should look like:
+Next, you are asked to investigate the trend in the number of births in Portugal during the same period. You can easily spot this by adding a trend line.
 
 To build this line chart you need to:
 
