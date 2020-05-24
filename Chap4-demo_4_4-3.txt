@@ -20,19 +20,3 @@ This exercise builds upon what you created in the previous exercise. If you lost
 
 What is the value of your portfolio in USD on January 8, 2018?
 $88,099 USD
-
-Hint
-
-    Create a new worksheet named "Portfolio Value" by clicking the "New Worksheet" tab at the bottom.
-    Click "Analysis" in the toolbar then click "Create Calculated Field".
-    Name the field Total Value (USD) and add in the following formula:
-
-([7203.T Price]*[7203.T Shares]*[Fxjpyusd]) + ([FB Price]*[FB Shares]) + ([TD.TO Price]*[TD.TO Shares]*[Fxcadusd]) + ([TSCO.L Price]*[TSCO.L Shares]*[Fxgbpusd])
-
-    Drag the date dimension to the Columns shelf, then right-click it and convert it from "YEAR(Date)" to "DAY(Date)".
-    Drag the calculated field (Total Value (USD)) to the Rows shelf, then right-click it and convert it to a dimension.
-    Click the "Marks" card and make the plot an area plot.
-    Right-click the x-axis, click "Edit Axis", then click "Tick Marks" then click "Fixed" (using the default interval of one year).
-    Create a new dashboard named "Currency and Value" by clicking the "New Dashboard" tab at the bottom.
-    Add the "Currency" sheet and the "Portfolio Value" sheet to the dashboard by dragging them from the Sheets panel and dropping them in the dashboard area.
-    Ensure "Floating" is selected under "Objects", then drag a floating image next to the area plot title and add the US flag.
