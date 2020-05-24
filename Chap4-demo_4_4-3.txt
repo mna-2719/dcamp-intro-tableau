@@ -9,14 +9,5 @@ You own four stocks, all denominated in different currencies. Now, you'll create
     Add the "Currency" sheet and the "Portfolio Value" sheet to the dashboard.
     Add a floating image with the US flag under the area plot title.
 
-If you don't see the Show Me button, that's because your window is too small. In Tableau, the Show Me button will appear or disappear from the toolbar depending on the size of the application window. You can make it appear by:
-
-    pressing Ctrl + 1 (the number one, not the letter L)
-    making your browser full screen
-    reducing the size of this left pane by dragging it to the left
-
-This exercise builds upon what you created in the previous exercise. If you lost progress, load the workbook 4_8_Currency_and_value.twbx from the Workbooks folder on the Desktop.
-
-
 What is the value of your portfolio in USD on January 8, 2018?
 $88,099 USD
