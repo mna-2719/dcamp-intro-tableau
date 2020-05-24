@@ -14,7 +14,5 @@ If you don't see the Show Me button, that's because your window is too small. In
 
 This exercise builds upon what you created in the previous exercise. If you lost progress, load the workbook 4_3_Adjust_axes_as_necessary.twbx from the Workbooks folder on the Desktop.
 
-
-
 How many shares of Toyota did you own on September 5, 2017?
 75
