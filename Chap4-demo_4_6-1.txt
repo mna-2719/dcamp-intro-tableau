@@ -6,10 +6,6 @@ In the last exercise, you combined two dashboards ("Stocks" and "Currency and Va
     Add detail to the "Currency and Value" caption so it tells a story about your investing journey.
     Go to the "Stocks" dashboard and delete the text button that says "View currency fluctuations".
 
-This exercise builds upon what you created in the previous exercise. If you lost progress, load the workbook 4_10_Tailor_your_captions.twbx from the Workbooks folder on the Desktop.
-
-Expected plot
-
 When you hover over a story caption, several buttons become available. Hover over the leftmost button. What is the name of that button?
 Delete
 
