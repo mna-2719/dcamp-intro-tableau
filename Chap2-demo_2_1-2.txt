@@ -1,7 +1,5 @@
 Comparing G7 countries
 
-Load the 2_2_Comparing_G7_countries.twbx workbook (located in the Workbooks folder on the Desktop).
-
 Which G7 countries (United States, France, Japan, United Kingdom, Canada, Italy, Germany) have had at least a value of 30 for Broadband Subscribers per 100 people consistently from 2009 and onwards?
 
 Possible Answers
