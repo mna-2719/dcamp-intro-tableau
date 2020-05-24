@@ -6,13 +6,5 @@ Imagine you're an individual investor. You own shares in Facebook, Tesco, TD Ban
     In a new worksheet titled "TD Bank", create a combined area and line plot with date (day) on the x-axis, TD.TO Shares on the left y-axis as an area plot, and TD.TO Price on the right y-axis as a line plot.
     Change the color of the area and line to green.
 
-If you don't see the Show Me button, that's because your window is too small. In Tableau, the Show Me button will appear or disappear from the toolbar depending on the size of the application window. You can make it appear by:
-
-    pressing Ctrl + 1 (the number one, not the letter L)
-    making your browser full screen
-    reducing the size of this left pane by dragging it to the left
-
-Expected plot
-
 What is the peak price of the TD stock?
 79.73
