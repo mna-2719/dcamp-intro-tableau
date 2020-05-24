@@ -12,12 +12,3 @@ Expected plot
 
 What is the button directly above the "Show Header" button?
 Format…
-
-
-Hint
-
-    At the bottom of the workbook, click the "New Dashboard" icon.
-    Right-click the new tab that appears and click "Rename" then name it "Stocks".
-    From the "Sheets" list at left, drag the "Facebook", "TD Bank", "Tesco", and "Toyota" views to the dashboard at the right, stacking them vertically.
-    Right click the x-axis for "Facebook", "TD Bank", and "Tesco" and uncheck "Show Header".
-    Click each view in the dashboard, then hover over its top or bottom border to adjust its height. Make the data in all views visible and roughly the same size by dragging the borders.
