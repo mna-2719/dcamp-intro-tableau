@@ -6,8 +6,5 @@ Now it's your turn to segment data. Previously, you found the average price of r
     Drag Days Occupied In 2019 to the Text Marks card, and get the average instead of the sum.
     Segment by Room Type.
 
-If you lost progress, load the workbook 1_3_Segmenting_by_room_type.twbx from the Workbooks folder on the Desktop.
-
-
 How many days on average were private rooms occupied in Manhattan?
 189
