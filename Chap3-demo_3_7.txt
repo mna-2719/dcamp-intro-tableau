@@ -1,6 +1,6 @@
 Reference lines
 
-Over to you! Your task is to analyze the number of births in Portugal over the last seven years. The World Health Organization has asked you to add a reference line to your graph indicating the maximum monthly death toll over the period. Below you can see what the resulting visualization should look like:
+Over to you! Your task is to analyze the number of births in Portugal over the last seven years. The World Health Organization has asked you to add a reference line to your graph indicating the maximum monthly death toll over the period. 
 
 To build this line chart you need to:
 
@@ -17,7 +17,6 @@ If you don't see the Show Me button, that's because your window is too small. In
     reducing the size of this left pane by dragging it to the left
 
 Looking at this visualization, you should be able to answer the following question.
-
 
 What was the maximum number of monthly births in Portugal during the 2013-2018 period?
 8107
