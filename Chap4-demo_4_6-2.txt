@@ -12,10 +12,3 @@ Expected plot
 
 What is the name of the navigator style layout option directly below "Numbers"?
 Dots
-
-Hint
-
-    Ensure you are in the "My portfolio" story.
-    Click "Layout" in the top-left corner of the interface.
-    Click "Numbers".
-    Click the "Presentation Mode" icon near the top-right corner of the interface (or click F7).
