@@ -5,9 +5,5 @@ You've created your basic dashboard to combine all of the share volume and share
     In the "Stocks" dashboard, add a tiled text box with the text "My investments" to the top of the dashboard.
     Remove the titles of the four stock visualizations.
 
-This exercise builds upon what you created in the previous exercise. If you lost progress, load the workbook 4_6_Add_a_tiled_text_box.twbx from the Workbooks folder on the Desktop.
-
-Expected plot
-
 What is the title of the dialog box that pops up when you drag the tiled text box onto the dashboard?
 Edit Text
