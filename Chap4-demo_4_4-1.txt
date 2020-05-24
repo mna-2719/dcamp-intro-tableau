@@ -11,14 +11,3 @@ Expected plot
 
 What is the title of the dialog box that pops up when you drag the tiled text box onto the dashboard?
 Edit Text
-
-
-Hint
-
-    Ensure you are in the "Stocks" dashboard.
-    Under "Objects", ensure "Tiled" is selected then drag and drop a "Text" object to the top of the dashboard.
-    Write "My investments" in the text box.
-    In the "Stocks" dashboard, double-click each stock's visualization title, then delete the plot title text.
-    Adjust the size of the tiles in the dashboard so the plots are the same size roughly and the text box has little surrounding white space.
-
-
