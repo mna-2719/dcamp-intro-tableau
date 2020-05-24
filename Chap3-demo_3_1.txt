@@ -9,12 +9,6 @@ To build this map you need to:
     Adjust the sizes of the circles based on the country's number of Stomach Cancer cases.
     Increase the size of the circles to make it easier to read the map.
 
-If you don't see the Show Me button, that's because your window is too small. In Tableau, the Show Me button will appear or disappear from the toolbar depending on the size of the application window. You can make it appear by:
-
-    pressing Ctrl + 1 (the number one, not the letter L)
-    making your browser full screen
-    reducing the size of this left pane by dragging it to the left
-
 Looking at your map, you should be able to answer the following question.
 
 How many people were diagnosed with stomach cancer in the country with the highest stomach cancer cases?
