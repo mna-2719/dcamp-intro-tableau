@@ -5,9 +5,5 @@ Now you'll further customize that dashboard. In this exercise, you'll use visual
     In the "Stocks" dashboard, add a floating image to each plot, one for each flag of the country in which that stock's stock exchange is listed.
     Add a floating button to the dashboard that says "View currency fluctuations" that redirects to the "Currency" worksheet.
 
-This exercise builds upon what you created in the previous exercise. If you lost progress, load the workbook 4_7_Add_floating_images_and_a_button.twbx from the Workbooks folder on the Desktop.
-
-Expected plot
-
 What is the title of the dialog box that pops up when you drag the floating image object onto the dashboard?
 Edit Image Object
