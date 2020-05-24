@@ -14,6 +14,5 @@ To build this map you need to:
 
 Looking at your map, you should be able to answer the following question.
 
-
 What was the population growth of the country with the highest population in 2008?
 0.56
