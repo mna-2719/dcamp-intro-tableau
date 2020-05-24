@@ -1,14 +1,10 @@
 Adjust layout
 
-In the last exercise, augmented your story with detailed captions. You don't always need those captions, though! If you want a minimal story that you'll walk people through in a verbal presentation, you can adjust the layout to hide those captions. In this exercise, you'll do that.
+In the last exercise, augmented your story with detailed captions.
+You don't always need those captions, though! If you want a minimal story that you'll walk people through in a verbal presentation, you can adjust the layout to hide those captions. In this exercise, you'll do that.
 
     Make the layout "Numbers".
     Enter "Presentation Mode".
-
-This exercise builds upon what you created in the previous exercise. If you lost progress, load the workbook 4_11_Adjust_layout.twbx from the Workbooks folder on the Desktop.
-
-Expected plot
-
 
 What is the name of the navigator style layout option directly below "Numbers"?
 Dots
