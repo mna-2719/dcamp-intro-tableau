@@ -1,6 +1,6 @@
 More symbol map options
 
-Let's add some color to this map. You are asked to add some information about the population growth of the countries. To make the map more clear, you decide to add the coastline. Below you can see what the map should look like.
+Let's add some color to this map. You are asked to add some information about the population growth of the countries. To make the map more clear, you decide to add the coastline.
 
 To build this map you need to:
 
