@@ -6,9 +6,5 @@ You've already created your views to monitor share volume and share price for al
     Drag the "Facebook", "TD Bank", "Tesco", and "Toyota" sheets into the dashboard, stacking them vertically.
     Right click the x-axis for the top three plots and uncheck "Show Header" so the x-axis is displayed for the bottom plot only.
 
-This exercise builds upon what you created in the previous exercise. If you lost progress, load the workbook 4_5_Create_a_dashboard.twbx from the Workbooks folder on the Desktop.
-
-Expected plot
-
 What is the button directly above the "Show Header" button?
 Format…
