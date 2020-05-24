@@ -1,0 +1,28 @@
+Use readable fonts
+
+In the previous exercise, you created a plot for TD Bank that monitors the price of the stock and how many shares of it that you own. In this exercise, you'll create the same plot but for Facebook and edit the font so it matches the font Facebook uses on its website.
+
+    In a new worksheet titled "Facebook", create a combined area and line plot with date (day) on the x-axis, FB Shares on the left y-axis as an area plot, and FB Price on the right y-axis as a line plot.
+    Change the font of the Facebook worksheet to Segoe UI.
+
+If you don't see the Show Me button, that's because your window is too small. In Tableau, the Show Me button will appear or disappear from the toolbar depending on the size of the application window. You can make it appear by:
+
+    pressing Ctrl + 1 (the number one, not the letter L)
+    making your browser full screen
+    reducing the size of this left pane by dragging it to the left
+
+This exercise builds upon what you created in the previous exercise. If you lost progress, load the workbook 4_1_Use_readable_fonts.twbx from the Workbooks folder on the Desktop.
+
+Expected plot
+
+What is the price of the Facebook stock on December 24, 2018?
+124.06
+
+
+    At the bottom of the workbook, click the "New Worksheet" icon. Right-click the new worksheet tab and name it "Facebook".
+    Select the Date dimension, the FB Shares measure, and the FB Price measure simultaneously.
+    Select the "Dual combination" plot type in the "Show Me" panel.
+    Make SUM(FB Shares) a dimension in the Rows shelf by right-clicking it and selecting "Dimension".
+    Make SUM(FB Price) a dimension in the Rows shelf by right-clicking it and selecting "Dimension".
+    Convert YEAR(Date) to DAY(Date) by right-clicking it in the Columns shelf and selecting the "Day" option.
+    Click "Format" in the toolbar, then "Font…", then select "Segoe UI" for all of the font dropdown menus.

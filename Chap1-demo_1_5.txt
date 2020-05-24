@@ -1,0 +1,11 @@
+Improving your first visualization
+
+Your visualization is insightful, but having the numbers appear directly on the graph instead of having to hover over each bar would make things easier.
+
+    Add labels to show the Days Occupied In 2019 on average for each room type in each neighborhood.
+
+This exercise builds upon what you created in the previous exercise. If you lost progress, load the workbook 1_5_Improving_your_first_visualization.twbx from the Workbooks folder on the Desktop.
+
+
+Which neighborhood shows 315 days occupancy in 2019 on average for shared rooms?
+Bay Ridge

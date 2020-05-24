@@ -1,0 +1,38 @@
+Currency and value
+
+You own four stocks, all denominated in different currencies. Now, you'll create a dashboard that displays the total value of your holdings in USD (share price multiplied by share volume, then converted to USD using the exchange rate), alongside the "Currency" view you've already created. In this dashboard, you can get a feeling for how your portfolio behaves amidst currency fluctuations.
+
+    Create a new worksheet named "Portfolio Value".
+    Create a calculated field called Total Value (USD) that multiplies share price by share volume by the appropriate exchange rate factor for all stocks then adds the products together.
+    Create an area plot with date on the x-axis and the new calculated field on the y-axis.
+    Create a new dashboard named "Currency and Value".
+    Add the "Currency" sheet and the "Portfolio Value" sheet to the dashboard.
+    Add a floating image with the US flag under the area plot title.
+
+If you don't see the Show Me button, that's because your window is too small. In Tableau, the Show Me button will appear or disappear from the toolbar depending on the size of the application window. You can make it appear by:
+
+    pressing Ctrl + 1 (the number one, not the letter L)
+    making your browser full screen
+    reducing the size of this left pane by dragging it to the left
+
+This exercise builds upon what you created in the previous exercise. If you lost progress, load the workbook 4_8_Currency_and_value.twbx from the Workbooks folder on the Desktop.
+
+
+What is the value of your portfolio in USD on January 8, 2018?
+$88,099 USD
+
+Hint
+
+    Create a new worksheet named "Portfolio Value" by clicking the "New Worksheet" tab at the bottom.
+    Click "Analysis" in the toolbar then click "Create Calculated Field".
+    Name the field Total Value (USD) and add in the following formula:
+
+([7203.T Price]*[7203.T Shares]*[Fxjpyusd]) + ([FB Price]*[FB Shares]) + ([TD.TO Price]*[TD.TO Shares]*[Fxcadusd]) + ([TSCO.L Price]*[TSCO.L Shares]*[Fxgbpusd])
+
+    Drag the date dimension to the Columns shelf, then right-click it and convert it from "YEAR(Date)" to "DAY(Date)".
+    Drag the calculated field (Total Value (USD)) to the Rows shelf, then right-click it and convert it to a dimension.
+    Click the "Marks" card and make the plot an area plot.
+    Right-click the x-axis, click "Edit Axis", then click "Tick Marks" then click "Fixed" (using the default interval of one year).
+    Create a new dashboard named "Currency and Value" by clicking the "New Dashboard" tab at the bottom.
+    Add the "Currency" sheet and the "Portfolio Value" sheet to the dashboard by dragging them from the Sheets panel and dropping them in the dashboard area.
+    Ensure "Floating" is selected under "Objects", then drag a floating image next to the area plot title and add the US flag.

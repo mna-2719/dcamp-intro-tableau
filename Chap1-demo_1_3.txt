@@ -1,0 +1,20 @@
+Segmenting by room type
+
+Now it's your turn to segment data. Previously, you found the average price of rooms in each neighborhood. Now, you want to know the average number of days listings were occupied in 2019 segmented first by neighborhood, but also by room type.
+
+    Remove Price from the Marks field.
+    Drag Days Occupied In 2019 to the Text Marks card, and get the average instead of the sum.
+    Segment by Room Type.
+
+If you lost progress, load the workbook 1_3_Segmenting_by_room_type.twbx from the Workbooks folder on the Desktop.
+
+
+How many days on average were private rooms occupied in Manhattan?
+189
+
+
+Hint
+
+    To remove a Dimension or Measure, just drag it out of the pane. Dragging a Dimension or Measure will show a rectangle below your mouse. When a red cross appears on the top right of that rectangle, you can release and the Dimension or Measure will be removed from the Field.
+    From Measures, drag Days Occupied In 2019 to the Text Marks Card.
+    To modify the measure from Sum to Average just proceed like you did in the previous exercise: On the Marks card, right-click on SUM(Days Occupied in 2019) and change the Measure from Sum to Average.

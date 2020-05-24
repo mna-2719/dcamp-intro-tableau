@@ -1,0 +1,26 @@
+Add floating images and a button
+
+Now you'll further customize that dashboard. In this exercise, you'll use visuals (images of flags) to emphasize the information you're trying to communicate (currency type). Too much text on a plot can be distracting. Here, you protect against that.
+
+    In the "Stocks" dashboard, add a floating image to each plot, one for each flag of the country in which that stock's stock exchange is listed.
+    Add a floating button to the dashboard that says "View currency fluctuations" that redirects to the "Currency" worksheet.
+
+This exercise builds upon what you created in the previous exercise. If you lost progress, load the workbook 4_7_Add_floating_images_and_a_button.twbx from the Workbooks folder on the Desktop.
+
+Expected plot
+
+What is the title of the dialog box that pops up when you drag the floating image object onto the dashboard?
+Edit Image Object
+
+
+Hint
+
+    Ensure you are in the "Stocks" dashboard.
+    Under "Objects", ensure "Floating" is selected.
+    Drag and drop a floating "Image" object under the Facebook plot title. Add the US flag, which is in the "Pictures" folder.
+    Drag and drop a floating "Image" object under the TD Bank plot title. Add the Canadian flag.
+    Drag and drop a floating "Image" object under the Tesco plot title. Add the UK flag.
+    Drag and drop a floating "Image" object under the Toyota plot title. Add the Japanese flag.
+    Drag and drop a floating "Button" object under the "My investments" text box. Click the down arrow of the button and click "Edit button".
+    In the "Navigate to" dropdown, select the "Currency" worksheet.
+    Select "Button style" then "Text button" then type "View currency fluctuations".

@@ -1,0 +1,28 @@
+Mortality forecast
+
+Let's combine what you've learned so far! The World Health organization has allocated a number of resources to Costa Rica based on the average over the past five years. They want to know if they need to increase this number in the future. In this final exercise you will be creating a line chart that will make it easy to answer the question introduced before:
+
+    Is the forecasted number of deaths in Costa Rica during December 2019 higher than the average over the last five years?
+
+To build this visualization you need to:
+
+    Load the 3_13_Mortality_forecast.twbx workbook (located in the Workbooks folder on the Desktop).
+    Create a line chart with the date (continuous month values) as columns and the total number of deaths as rows.
+    Filter the data on Country to only include Costa Rica.
+    Filter the data on the Years 2014-2018.
+    Add a forecast for the number of deaths during 2019.
+    Add a reference line indicating the average number of deaths in the chart.
+
+If you don't see the Show Me button, that's because your window is too small. In Tableau, the Show Me button will appear or disappear from the toolbar depending on the size of the application window. You can make it appear by:
+
+    pressing Ctrl + 1 (the number one, not the letter L)
+    making your browser full screen
+    reducing the size of this left pane by dragging it to the left
+
+Looking at your visualization, you should be able to answer the question.
+
+Possible Answers
+
+    Yes
+    No
+

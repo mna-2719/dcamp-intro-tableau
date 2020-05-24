@@ -1,0 +1,24 @@
+Add a tiled text box
+
+You've created your basic dashboard to combine all of the share volume and share price information for the stocks in your portfolio. Now you'll customize it with a title in a text box, then remove redundant text to use space more efficiently.
+
+    In the "Stocks" dashboard, add a tiled text box with the text "My investments" to the top of the dashboard.
+    Remove the titles of the four stock visualizations.
+
+This exercise builds upon what you created in the previous exercise. If you lost progress, load the workbook 4_6_Add_a_tiled_text_box.twbx from the Workbooks folder on the Desktop.
+
+Expected plot
+
+What is the title of the dialog box that pops up when you drag the tiled text box onto the dashboard?
+Edit Text
+
+
+Hint
+
+    Ensure you are in the "Stocks" dashboard.
+    Under "Objects", ensure "Tiled" is selected then drag and drop a "Text" object to the top of the dashboard.
+    Write "My investments" in the text box.
+    In the "Stocks" dashboard, double-click each stock's visualization title, then delete the plot title text.
+    Adjust the size of the tiles in the dashboard so the plots are the same size roughly and the text box has little surrounding white space.
+
+

@@ -1,0 +1,18 @@
+Sorting and excluding multiple fields
+
+In the preceding demo, you learned how to filter through selection and how sort the order of data in your visualization. It's time for you to test out these skills.
+
+    Load the 2_1_Sorting_and_excluding_multiple_fields.twbx workbook (located in the Workbooks folder on the Desktop).
+    Exclude the years 2006 and 2007.
+    Sort Country in alphabetical order.
+    Keep only the first 10 countries that are listed.
+    Sort by Cell Phones per 100 people in descending order.
+
+After these actions, which country is listed first?
+
+Possible Answers
+
+    Uruguay
+    Zimbabwe
+    Antigua and Barbuda
+    Kiribati

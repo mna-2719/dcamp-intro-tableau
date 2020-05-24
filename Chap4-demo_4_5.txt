@@ -1,0 +1,22 @@
+Creating a story
+
+You have one dashboard for your individual stocks (share volume and share price) and one dashboard that contains currency fluctuations and the overall value of your portfolio (in USD). Combining those two dashboards into a short, two-point story conveys a lot of information. In this exercise, you'll do just that.
+
+    Create a new story called "My Portfolio".
+    Drag the "Stocks" dashboard to the first story point.
+    Create a second story point and drag the "Currency and Value" dashboard to it.
+
+This exercise builds upon what you created in the previous exercise. If you lost progress, load the workbook 4_9_Create_a_story.twbx from the Workbooks folder on the Desktop.
+
+Expected plot
+
+What is the name of the button directly below <strong>New story point</strong> when in a story sheet?
+Blank
+
+Hint
+
+    At the bottom of the workbook, click the "New Story" icon.
+    Right-click the new tab that appears and click "Rename" then name it "My Portfolio".
+    From the left, drag the "Stocks" dashboard over to the right.
+    Click "Blank" under "New story point" in the top-left corner.
+    From the left, drag the "Currency and Value" dashboard over to the right.

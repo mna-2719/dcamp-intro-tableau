@@ -1,0 +1,23 @@
+Reference lines
+
+Over to you! Your task is to analyze the number of births in Portugal over the last seven years. The World Health Organization has asked you to add a reference line to your graph indicating the maximum monthly death toll over the period. Below you can see what the resulting visualization should look like:
+
+To build this line chart you need to:
+
+    Load the 3_10_Reference_lines.twbx workbook (located in the Workbooks folder on the Desktop).
+    Create a line chart with the date (continuous month values) as columns and the total number of births as rows.
+    Filter the data on Country to only include Portugal.
+    Filter the data on the Years 2013-2018.
+    Add a reference line indicating the maximum number of births in the chart.
+
+If you don't see the Show Me button, that's because your window is too small. In Tableau, the Show Me button will appear or disappear from the toolbar depending on the size of the application window. You can make it appear by:
+
+    pressing Ctrl + 1 (the number one, not the letter L)
+    making your browser full screen
+    reducing the size of this left pane by dragging it to the left
+
+Looking at this visualization, you should be able to answer the following question.
+
+
+What was the maximum number of monthly births in Portugal during the 2013-2018 period?
+8107

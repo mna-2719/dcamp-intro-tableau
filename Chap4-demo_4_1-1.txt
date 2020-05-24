@@ -1,0 +1,30 @@
+Use color purposefully
+
+Imagine you're an individual investor. You own shares in Facebook, Tesco, TD Bank, and Toyota. In the previous demo, we created a plot for Facebook that monitors the price of the stock and how many shares of it that you own. In this exercise, you'll create the same plot for TD Bank. You'll use color purposefully by matching the brand color of TD with your plot.
+
+    Connect to the portfolio.csv text file in the Datasources folder.
+    In a new worksheet titled "TD Bank", create a combined area and line plot with date (day) on the x-axis, TD.TO Shares on the left y-axis as an area plot, and TD.TO Price on the right y-axis as a line plot.
+    Change the color of the area and line to green.
+
+If you don't see the Show Me button, that's because your window is too small. In Tableau, the Show Me button will appear or disappear from the toolbar depending on the size of the application window. You can make it appear by:
+
+    pressing Ctrl + 1 (the number one, not the letter L)
+    making your browser full screen
+    reducing the size of this left pane by dragging it to the left
+
+Expected plot
+
+What is the peak price of the TD stock?
+79.73
+
+
+Hint
+
+    In the "Connect" screen, click "Text file", navigate to the "Datasources" folder, click portfolio.csv, then click "Open".
+    Go to "Sheet 1" at the bottom of the screen. Right click the tab, click rename, and rename it "TD Bank".
+    Select the Date dimension, the TD.TO Shares measure, and the TD.TO Price measure simultaneously.
+    Select the "Dual combination" plot type in the "Show Me" panel.
+    Make SUM(TD.TO Shares) a dimension in the Rows shelf by right-clicking it and selecting "Dimension".
+    Make SUM(TD.TO Price) a dimension in the Rows shelf by right-clicking it and selecting "Dimension".
+    Convert YEAR(Date) to DAY(Date) by right-clicking it in the Columns shelf and selecting the "Day" option.
+    Click the "All" marks card, then click "Color", then select green.

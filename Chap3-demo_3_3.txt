@@ -1,0 +1,16 @@
+Your first highlight table
+
+Now it's your turn! You've been asked to build a highlight table that shows the number of stomach cancer cases in African countries during the period 2006-2008. Below you can see what your result should look like.
+
+To build this table you need to:
+
+    Load the 3_4_Your_first_highlight_table.twbx workbook (located in the Workbooks folder on the Desktop).
+    Create a highlight table with Year as columns and a Country on each row.
+    Filter the data on the African Continent and the Years 2006, 2007, and 2008.
+    Add the total number of Stomach Cancer cases as values in the table.
+    Color the cell background based on the total number of Stomach Cancer cases.
+
+Looking at this table, you should be able to answer the following question.
+
+Which country had the most stomach cancer cases in 2008?
+Ethiopia

@@ -1,0 +1,10 @@
+Top filters on Tableau
+
+Now, we want to filter countries on their average Cell Phones per 100 people across the years 2006-2015. The sum aggregation is set as the default aggregation for measures, so you'll have to look out for this.
+
+    Load the 2_4_Top_filters_on_Tableau.twbx workbook (located in the Workbooks folder on the Desktop).
+    Use Tableau's top filter option to answer the following question. Make sure to change the aggregation from sum!
+
+
+Which country has the second lowest Cell Phones per 100 people average?
+Cuba

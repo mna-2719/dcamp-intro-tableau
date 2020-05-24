@@ -1,0 +1,15 @@
+Calculated field for rounding
+
+There's no need to memorize all of the functions because of Tableau's handy built-in documentation.
+
+    Load the 2_5_Calculated_field_for_rounding.twbx workbook (located in the Workbooks folder on the Desktop).
+    Create a new calculated field called Rounded Women 25-34.
+    Use the built-in documentation and look up ROUND().
+    When defining Rounded Women 25-34, use Round() to round the column Women 25-34 to 1 decimal point.
+    Replace Women 25-34 in the Marks card with your newly created field.
+
+With the use of filtering, you should be able to answer the following question.
+
+
+How many countries in 1976 have a value of 8 for Rounded Women 25-34?
+2

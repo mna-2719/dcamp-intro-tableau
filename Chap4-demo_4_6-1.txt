@@ -1,0 +1,21 @@
+Tailor your captions
+
+In the last exercise, you combined two dashboards ("Stocks" and "Currency and Value") into a short, two-point story conveys a lot of information. In this exercise, you'll improve upon those captions to highlight a specific insight in each story point. You'll also remove a redundant part of a dashboard in the story.
+
+    Add detail to the "Stocks" caption so it tells a story about your investing journey.
+    Add detail to the "Currency and Value" caption so it tells a story about your investing journey.
+    Go to the "Stocks" dashboard and delete the text button that says "View currency fluctuations".
+
+This exercise builds upon what you created in the previous exercise. If you lost progress, load the workbook 4_10_Tailor_your_captions.twbx from the Workbooks folder on the Desktop.
+
+Expected plot
+
+When you hover over a story caption, several buttons become available. Hover over the leftmost button. What is the name of that button?
+Delete
+
+Hint
+
+    Click the first story point caption and replace the text with something like "I invest internationally".
+    Click the second story point caption and replace the text with something like "And monitor currency fluctuations".
+    At the bottom of the workbook, click the "Stocks" dashboard tab.
+    Select the text button that says "View currency fluctuations" and click the "X" to delete it.

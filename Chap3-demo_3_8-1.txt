@@ -1,0 +1,19 @@
+Trend lines
+
+Next, you are asked to investigate the trend in the number of births in Portugal during the same period. You can easily spot this by adding a trend line. Below you can see what the final visualization should look like:
+
+To build this line chart you need to:
+
+    Remove the reference line you created before.
+    Add a linear trend line for the number of births over time.
+
+This exercise builds upon what you created in the previous exercise. If you lost progress, load the workbook 3_11_Trend_lines.twbx from the Workbooks folder on the Desktop.
+
+Looking at this visualization, you should be able to answer the following question.
+
+Is there an upward or downward trend in the number of births in Portugal during the 2012-2018 period?
+
+Possible Answers
+
+    Downward
+    Upward

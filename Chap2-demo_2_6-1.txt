@@ -1,0 +1,11 @@
+Average across age groups and gender
+
+In the demo, we created a field for the average across men age groups. Now, you will create a field for the average across women and men age groups.
+
+    Load the 2_6_Mean_across_age_groups_and_gender.twbx workbook (located in the Workbooks folder on the Desktop).
+    Create a new field called All that aggregates the 10 demographics across age groups and gender.
+
+Once you have created All, you should be able to answer the following question.
+
+What is the highest "All" average for a country (rounded by one decimal points)?
+12.692

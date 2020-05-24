@@ -1,0 +1,25 @@
+Birth seasonality
+
+Let's combine everything you've learned so far! In this final exercise, you will be creating a line chart that will help the World Health Organization plan how many resources should be sent over to Chile to ensure newborn care at birth throughout the year. You will be able to answer the question introduced before:
+
+    Was there seasonality present in the number of births in Chile during 1995-1999? If yes, during which month are the fewest babies typically born?
+
+To build this visualization you need to:
+
+    Load the 3_9_Birth_seasonality.twbx workbook (located in the Workbooks folder on the Desktop).
+    Create a line chart with the date (in years) as columns and the total number of births as rows.
+    Filter the data on Country to only include Chile.
+    Display continuous month values as columns.
+    Filter the data on the Years 1995-1999.
+
+If you don't see the Show Me button, that's because your window is too small. In Tableau, the Show Me button will appear or disappear from the toolbar depending on the size of the application window. You can make it appear by:
+
+    pressing Ctrl + 1 (the number one, not the letter L)
+    making your browser full screen
+    reducing the size of this left pane by dragging it to the left
+
+Looking at your visualization, you should be able to answer the following question.
+
+
+During which month were the least babies born in Chile during 1995-1999?
+February

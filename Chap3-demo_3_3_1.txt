@@ -1,0 +1,20 @@
+Your data by year
+
+Now it's your turn! Your task is to analyze mortality in Singapore over the past 40 years. The World Health Organization is interested in knowing how the number of deaths has been evolving. Below you can see what the resulting visualization should look like:
+
+To build this line chart you need to:
+
+    Load the 3_7_Your_data_by_year.twbx workbook (located in the Workbooks folder on the Desktop).
+    Create a line chart with the date (in years) as columns and the total number of deaths as rows.
+    Filter the data on Country to only include Portugal.
+
+If you don't see the Show Me button, that's because your window is too small. In Tableau, the Show Me button will appear or disappear from the toolbar depending on the size of the application window. You can make it appear by:
+
+    pressing Ctrl + 1 (the number one, not the letter L)
+    making your browser full screen
+    reducing the size of this left pane by dragging it to the left
+
+Looking at this visualization, you should be able to answer the following question.
+
+What was the total number of deaths in Portugal in 2018?
+113500

@@ -1,0 +1,17 @@
+Adding a quick table calculation
+
+Let's start leveraging the power of quick table calculations. The World Health Organization also wants to see the percent difference compared to the previous year. You remember that you can easily accomplish this by using the quick table calculation feature. This is what the table should look like:
+
+To build this table you need to:
+
+    Use a quick table calculation to add the percent difference (compared to the previous year) of Stomach Cancer cases as values in the table.
+    Color the cell background based on this value.
+    Also show the original values of Stomach Cancer cases in each year.
+    Change the order and show the original values above the calculated values.
+
+This exercise builds upon what you created in the previous exercise. If you lost progress, load the workbook 3_5_Adding_a_quick_table_calculation.twbx from the Workbooks folder on the Desktop.
+
+Looking at this table, you should be able to answer the following question.
+
+What is the biggest percentage drop in stomach cancer cases compared to the previous year? Round your answer to the third decimal.
+3.345

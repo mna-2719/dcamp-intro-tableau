@@ -1,0 +1,43 @@
+Monitor currency
+
+You own four stocks, all denominated in different currencies. To monitor the value of your investments, it'd be helpful to have a plot that monitors the value of those currencies. In this exercise, you'll create a line plot that plots the value of all three non-USD currencies (that is, GBP, CAD, and JPY).
+
+    In a new worksheet titled "Currency", create line plot with date (day) on the x-axis, then Fxcadusd, Fxgbpusd, and Fxjpyusd on the y-axis.
+    Change the color of Fxcadusd to hex FF0000 to match the Canadian flag.
+    Change the color of Fxgbpusd to hex 001F7E to match the flag of Great Britain.
+    Change the color of Fxjpyusd to hex C70025 to match the Japanese flag.
+    Adjust the date axis so its major tick marks have a fixed interval of 1 year.
+    Adjust the tooltip so it has date first, then "1 CAD is worth (plus the other non-USD currencies).
+    Rename the titles of all views in the workbook so they are memorable.
+
+If you don't see the Show Me button, that's because your window is too small. In Tableau, the Show Me button will appear or disappear from the toolbar depending on the size of the application window. You can make it appear by:
+
+    pressing Ctrl + 1 (the number one, not the letter L)
+    making your browser full screen
+    reducing the size of this left pane by dragging it to the left
+
+This exercise builds upon what you created in the previous exercise. If you lost progress, load the workbook 4_4_Monitor_currency.twbx from the Workbooks folder on the Desktop.
+
+What is the value of 1 GBP in USD on April 16, 2018?
+1.4324
+
+Hint
+
+    At the bottom of the workbook, click the "New Worksheet" icon. Right-click the new worksheet tab and name it "Currency".
+    Select the Date dimension and the Fxcadusd, Fxgbpusd, and Fxjpyusd measures simultaneously.
+    Select the "lines (continuous)" plot type in the "Show Me" panel.
+    Make Fxcadusd, Fxgbpusd, and Fxjpyusd dimensions in the Rows shelf.
+    Convert YEAR(Date) to DAY(Date) by right-clicking it in the Columns shelf and selecting the "Day" option.
+    Click the "Fxcadusd" marks card, then click "Color", then select more colors, then enter the hex code FF0000.
+    Click the "Fxgbpusd" marks card, then click "Color", then select more colors, then enter the hex code 001F7E.
+    Click the "Fxjpyusd" marks card, then click "Color", then select more colors, then enter the hex code C70025.
+    Right-click the x-axis then click "Edit Axis". Click "Tick Marks" then select "Fixed" under "Major Tick Marks".
+    Click "All" in "Marks" card, then click "Tooltip".
+    Write the following in the tooltip text box:
+
+Day of Date:    <DAY(Date)>
+1 CAD is worth    <Fxcadusd> USD
+1 GBP is worth    <Fxgbpusd> USD
+1 JPY is wortH    <Fxjpyusd> USD
+
+    Double-click the plot titles of all views and add something like "My investment in [Stock Name]" or "The currencies of my portfolio".

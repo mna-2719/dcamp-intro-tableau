@@ -1,0 +1,30 @@
+My investments
+
+Sometimes the stories you tell will be longer. In this exercise, you'll create a detailed, six-point story that narrates your investment journey in 2018 only.
+
+    Apply a date filter to the "Facebook", "Tesco", "TD Bank", "Toyota", "Currency", and "Portfolio Value" worksheets so there is only 2018 data.
+    Create a new story called named "My 2018 investments".
+    Add the above six worksheets in the above order.
+    Write detailed captions that tell your 2018 investing highlights.
+    Enter presentation mode.
+
+This exercise builds upon what you created in the previous exercise. If you lost progress, load the workbook 4_12_My_investments.twbx from the Workbooks folder on the Desktop.
+
+You held Tesco for pretty much all of 2018. How many shares did you have for the majority of the year?
+200
+
+Hint
+
+    Click the "Facebook" tab. Drag the Date dimension to the Filter card. Select Years then 2018.
+    Do the same for the "Tesco", "TD Bank", "Toyota", "Currency", and "Portfolio Value" worksheets.
+    At the bottom, click the "New Story" icon.
+    Right-click the new story and rename it "My 2018 investments".
+    In the left panel, double-click the "Facebook", "Tesco", "TD Bank", "Toyota", "Currency", and "Portfolio Value" sheets in that order.
+    Write detailed captions, like the following:
+    I bought early and Facebook dove
+    I held Tesco all year and it was a roller coaster ride
+    I bought early and TD fluctuated, then dove late
+    Toyota steadily decreased while I steadily bought
+    The US dollar was strong, which wasn't great for my foreign investments
+    My portfolio value dropped in the second half of the year despite my continual buys
+    Click the "Presentation Mode" icon near the top-right corner of the interface (or click F7).

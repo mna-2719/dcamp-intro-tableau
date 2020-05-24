@@ -1,0 +1,21 @@
+Gender disparities
+
+Let's combine everything you've learned so far! The World Health Organization is trying to fix gender disparities in health. They want to know where to focus humanitarian effort to bridge the gaps. In this final exercise, you will be creating a highlight table that will make it easy to answer the question introduced before:
+
+    For what country in the Americas is the difference in average life expectancy between men and women the highest?
+
+To build this visualization you need to:
+
+    Load the 3_6_Gender_disparities.twbx workbook (located in the Workbooks folder on the Desktop).
+    Create a highlight table with Gender as columns and a Country on each row.
+    Filter the data on the American Continent.
+    Add the average Life Expectancy as values in the table.
+    Color the cell background based on the average Life Expectancy.
+    Use a quick table calculation to add the difference (between genders) of Life Expectancy as values in the table.
+    Color the cell background based on this value.
+
+Looking at your visualization, you should be able to answer the following question.
+
+
+For what country in the Americas is the difference in average life expectancy between men and women the highest?
+El Salvador

@@ -1,0 +1,15 @@
+Forecasting
+
+Let's do some forecasting. This time, you are tasked with forecasting the number of births in Portugal for the next year. Below you can see what the resulting visualization should look like:
+
+To build this line chart you need to:
+
+    Remove the trend line you created before.
+    Add a forecast for the number of births during 2019.
+
+This exercise builds upon what you created in the previous exercise. If you lost progress, load the workbook 3_12_Forecasting.twbx from the Workbooks folder on the Desktop.
+
+Looking at this visualization, you should be able to answer the following question.
+
+How many births do we expect in Portugal in November 2019?
+7363

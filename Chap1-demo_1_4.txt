@@ -1,0 +1,18 @@
+Building your first visualization
+
+In the previous exercise, you created a table to know the average number of days listings were occupied in 2019, per neighborhood and per room type. However, a table is tedious to look at, so you would like to visualize the results instead.
+
+    Click Show Me and select stacked bars.
+
+If you don't see the Show Me button, that's because your window is too small. In Tableau, the Show Me button will appear or disappear from the toolbar depending on the size of the application window. You can make it appear by:
+
+    pressing Ctrl + 1 (the number one, not the letter L)
+    making your browser full screen
+    reducing the size of this left pane by dragging it to the left
+
+If you lost progress, load the workbook 1_4_Building_your_first_visualization.twbx from the Workbooks folder on the Desktop.
+
+Your final visualization should resemble the one below. final_visualization
+
+How many days on average were entire homes or apartments occupied in the neighborhood with the highest overall occupancy?
+207.5

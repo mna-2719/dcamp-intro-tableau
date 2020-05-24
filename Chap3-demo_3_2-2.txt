@@ -1,0 +1,25 @@
+World population
+
+Let's combine everything you've learned so far! In this final exercise, you will be creating a symbol map that will make it easy to look at the countries' population and population growth rate. With this information, the World Health Organization can decide on which countries they need to focus to prevent health risks due to overpopulation. You will be able to answer the question introduced before:
+
+    What was the population growth of the country with the highest population in 2008?
+
+To build this map you need to:
+
+    Load the 3_3_World_population.twbx workbook (located in the Workbooks folder on the Desktop).
+    Create a symbol map with varying circle sizes based on Population.
+    Color the circles based on average Population Growth.
+    Add a black border around the circles and remove the halo.
+    Filter the data on year to include data for 2008.
+
+If you don't see the Show Me button, that's because your window is too small. In Tableau, the Show Me button will appear or disappear from the toolbar depending on the size of the application window. You can make it appear by:
+
+    pressing Ctrl + 1 (the number one, not the letter L)
+    making your browser full screen
+    reducing the size of this left pane by dragging it to the left
+
+Looking at your map, you should be able to answer the following question.
+
+
+What was the population growth of the country with the highest population in 2008?
+0.56

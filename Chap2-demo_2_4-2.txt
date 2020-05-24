@@ -1,0 +1,23 @@
+Standard deviation of life expectancy
+
+Standard deviation is a useful aggregation for analyzing how much data varies. In this exercise, you will use standard deviation to see how much life expectancy has varied across the years for different countries.
+
+    Load the 2_11_Std_dev_of_life_expectancy.twbx workbook (located in the Workbooks folder on the Desktop).
+    Create a bar chart with the bars representing the standard deviation of life expectancy for each country.
+    Consider only the years from 1980 to 2000.
+
+If you don't see the Show Me button, that's because your window is too small. In Tableau, the Show Me button will appear or disappear from the toolbar depending on the size of the application window. You can make it appear by:
+
+    pressing Ctrl + 1 (the number one, not the letter L)
+    making your browser full screen
+    reducing the size of this left pane by dragging it to the left
+
+Which country has the highest standard deviation on the Life Expectancy measure?
+Instructions
+100XP
+Possible Answers
+
+    Lebanon
+    Maldives
+    Andorra
+    Djibouti

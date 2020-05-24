@@ -1,0 +1,15 @@
+Counting on GDP per capita
+
+The aggregation options count and count (distinct) are useful for analyzing dimensions and whether they have reached certain thresholds.
+
+    Load the 2_10_Counting_on_GDP_per_Capita.twbx workbook (located in the Workbooks folder on the Desktop).
+    Create a bar graph similar to the one made in the demo to visualize sub regions and their occurrence in different GDP per Capita (Grouped) categories.
+
+If you don't see the Show Me button, that's because your window is too small. In Tableau, the Show Me button will appear or disappear from the toolbar depending on the size of the application window. You can make it appear by:
+
+    pressing Ctrl + 1 (the number one, not the letter L)
+    making your browser full screen
+    reducing the size of this left pane by dragging it to the left
+
+Since 1960, which sub region has been in all six GDP per Capita (Grouped) categories?
+Western Asia

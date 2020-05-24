@@ -1,0 +1,16 @@
+Saving your work locally
+
+In this course, you have used a version of Tableau called Tableau Public.
+
+    Go to the file menu.
+    Explore the options in the dropdown.
+    Answer the above yes/no question in the input field below.
+
+This exercise builds upon what you created in the previous exercise. If you lost progress, load the workbook 4_13_Saving_your_work_locally.twbx from the Workbooks folder on the Desktop.
+
+In this version, can you save files locally? That is, can you save them directly to your computer from the Tableau software on your computer?
+
+Possible Answers
+
+    Yes
+    No

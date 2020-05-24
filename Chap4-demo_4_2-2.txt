@@ -1,0 +1,20 @@
+Adjust axes as necessary
+
+In this exercise, you'll create the same plot as in the previous demos and exercises, but for Toyota. You'll modify secondary y-axis so you remind yourself of the currency that the Toyota stock is denominated in (Japanese yen).
+
+    In a new worksheet titled "Toyota", create a combined area and line plot with date (day) on the x-axis, 7203.T Shares on the left y-axis as an area plot, and 7203.T Price on the right y-axis as a line plot.
+    Make the plots red to match Toyota's brand.
+    Add " (JPY)" to the end of the "7203.T Price" axis label.
+
+If you don't see the Show Me button, that's because your window is too small. In Tableau, the Show Me button will appear or disappear from the toolbar depending on the size of the application window. You can make it appear by:
+
+    pressing Ctrl + 1 (the number one, not the letter L)
+    making your browser full screen
+    reducing the size of this left pane by dragging it to the left
+
+This exercise builds upon what you created in the previous exercise. If you lost progress, load the workbook 4_3_Adjust_axes_as_necessary.twbx from the Workbooks folder on the Desktop.
+
+
+
+How many shares of Toyota did you own on September 5, 2017?
+75

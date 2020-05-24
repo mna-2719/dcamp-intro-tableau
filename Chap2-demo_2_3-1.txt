@@ -1,0 +1,19 @@
+CO2 Emissions and GDP in Sub Regions
+
+In this exercise, you are going to create a scatter plot comparing GDP per Capita and CO2 Emmissions per Person. The data points in the scatter plot should represent Sub Regions (unlike the demo, where we used Country).
+
+    Load the 2_8_CO2_Emissions_and_GDP_in_Sub_Regions.twbx workbook (located in the Workbooks folder on the Desktop).
+
+If you don't see the Show Me button, that's because your window is too small. In Tableau, the Show Me button will appear or disappear from the toolbar depending on the size of the application window. You can make it appear by:
+
+    pressing Ctrl + 1 (the number one, not the letter L)
+    making your browser full screen
+    reducing the size of this left pane by dragging it to the left
+
+Based on your scatter plot, which of the following statements is true?
+
+Possible Answers
+
+    Eastern Africa is an outlier.
+    Sub regions with more than a 25,000 Avg. GDP per Capita emit an average of at least 12 CO2 tonnes per person
+    The Eastern Asia and Caribbean sub regions share very similar values.

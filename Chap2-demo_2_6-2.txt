@@ -1,0 +1,12 @@
+Ratio between gender
+
+Another useful calculated field to make is ratio. Ratios are a good way to compare two values. In our case, we can compare the mean years of education between women and men using a ratio. The closer the ratio is to one, the more equal levels of education are between women and men.
+
+    Load the 2_7_Ratio_between_gender.twbx workbook (located in the Workbooks folder on the Desktop).
+    Create a calculated field called Men:Women (25-34) which calculates the men:women ratio for years spent in school in the 25-34 age group.
+    Add this new field as a column to the table by dragging it to the Text card.
+
+Using sorting on your view, answer the following question.
+
+Which G20 country has the lowest men:women (25-34) ratio for years spent in school?
+Brazil

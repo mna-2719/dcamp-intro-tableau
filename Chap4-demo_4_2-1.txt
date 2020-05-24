@@ -1,0 +1,31 @@
+Use tooltips
+
+In this exercise, you'll create the same plot as in the previous demos and exercises, but for Tesco. You'll modify the tooltip so you remind yourself of Tesco's legendary marketing slogan and its success: "Every little helps".
+
+    In a new worksheet titled "Tesco", create a combined area and line plot with date (day) on the x-axis, TSCO.L Shares on the left y-axis as an area plot, and TSCO.L Price on the right y-axis as a line plot.
+    Make the plots grey.
+    Add a new line to the top of the tooltip that says "Every little helps" in bold italics.
+
+If you don't see the Show Me button, that's because your window is too small. In Tableau, the Show Me button will appear or disappear from the toolbar depending on the size of the application window. You can make it appear by:
+
+    pressing Ctrl + 1 (the number one, not the letter L)
+    making your browser full screen
+    reducing the size of this left pane by dragging it to the left
+
+This exercise builds upon what you created in the previous exercise. If you lost progress, load the workbook 4_2_Use_tooltips.twbx from the Workbooks folder on the Desktop.
+
+Expected plot
+
+How many shares of Tesco did you own on April 23, 2018?
+200
+
+Hint
+
+    At the bottom of the workbook, click the "New Worksheet" icon. Right-click the new worksheet tab and name it "Tesco".
+    Select the Date dimension, the TSCO.L Shares measure, and the TSCO.L Price measure simultaneously.
+    Select the "Dual combination" plot type in the "Show Me" panel.
+    Make SUM(TSCO.L Shares) a dimension in the Rows shelf by right-clicking it and selecting "Dimension".
+    Make SUM(TSCO.L Price) a dimension in the Rows shelf by right-clicking it and selecting "Dimension".
+    Convert YEAR(Date) to DAY(Date) by right-clicking it in the Columns shelf and selecting the "Day" option.
+    Click "All" in "Marks" card, then click "Tooltip".
+    Create a new line at the top of the tooltip and write "Every little helps" in bold italics.

@@ -1,0 +1,18 @@
+New York's neighborhoods prices
+
+It's now your turn! In the demo, we created a table of neighborhoods in San Francisco and the number of Airbnb listings in each. Now, you will create a similar table: you will look at New York instead of San Francisco, and at price averages instead of listings count. Remember the data you loaded in the Loading data exercise? After doing so, you let a colleague try her hand at building a viz while you went to grab a cup of coffee. She saved her work on your computer.
+
+    Load the workbook 1_2_New_York's_neighborhoods_prices.twbx from the Workbooks folder on the Desktop.
+    The viz is nice, but you would prefer to start fresh, so clear the sheet.
+    Drag the neighborhoods to the Rows shelf.
+    Drag the price to the Text Marks card.
+    Getting the sum of prices makes little sense. Hover on SUM(Price) at the bottom of the Marks field. Click on the down arrow that appears, and instead of "Sum", select "Average" as the measure.
+
+After you have created the table, find the row for the "Brooklyn Heights" neighborhood. What is the average price of a listing there?
+
+Possible Answers
+
+    130
+    192
+    193
+    367
