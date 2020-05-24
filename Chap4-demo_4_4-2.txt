@@ -11,16 +11,3 @@ Expected plot
 
 What is the title of the dialog box that pops up when you drag the floating image object onto the dashboard?
 Edit Image Object
-
-
-Hint
-
-    Ensure you are in the "Stocks" dashboard.
-    Under "Objects", ensure "Floating" is selected.
-    Drag and drop a floating "Image" object under the Facebook plot title. Add the US flag, which is in the "Pictures" folder.
-    Drag and drop a floating "Image" object under the TD Bank plot title. Add the Canadian flag.
-    Drag and drop a floating "Image" object under the Tesco plot title. Add the UK flag.
-    Drag and drop a floating "Image" object under the Toyota plot title. Add the Japanese flag.
-    Drag and drop a floating "Button" object under the "My investments" text box. Click the down arrow of the button and click "Edit button".
-    In the "Navigate to" dropdown, select the "Currency" worksheet.
-    Select "Button style" then "Text button" then type "View currency fluctuations".
