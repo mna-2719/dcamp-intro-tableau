@@ -10,13 +10,5 @@ You own four stocks, all denominated in different currencies. To monitor the val
     Adjust the tooltip so it has date first, then "1 CAD is worth (plus the other non-USD currencies).
     Rename the titles of all views in the workbook so they are memorable.
 
-If you don't see the Show Me button, that's because your window is too small. In Tableau, the Show Me button will appear or disappear from the toolbar depending on the size of the application window. You can make it appear by:
-
-    pressing Ctrl + 1 (the number one, not the letter L)
-    making your browser full screen
-    reducing the size of this left pane by dragging it to the left
-
-This exercise builds upon what you created in the previous exercise. If you lost progress, load the workbook 4_4_Monitor_currency.twbx from the Workbooks folder on the Desktop.
-
 What is the value of 1 GBP in USD on April 16, 2018?
 1.4324
