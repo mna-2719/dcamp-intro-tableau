@@ -9,8 +9,6 @@ To build this table you need to:
     Also show the original values of Stomach Cancer cases in each year.
     Change the order and show the original values above the calculated values.
 
-This exercise builds upon what you created in the previous exercise. If you lost progress, load the workbook 3_5_Adding_a_quick_table_calculation.twbx from the Workbooks folder on the Desktop.
-
 Looking at this table, you should be able to answer the following question.
 
 What is the biggest percentage drop in stomach cancer cases compared to the previous year? Round your answer to the third decimal.
