@@ -16,15 +16,3 @@ Expected plot
 
 What is the peak price of the TD stock?
 79.73
-
-
-Hint
-
-    In the "Connect" screen, click "Text file", navigate to the "Datasources" folder, click portfolio.csv, then click "Open".
-    Go to "Sheet 1" at the bottom of the screen. Right click the tab, click rename, and rename it "TD Bank".
-    Select the Date dimension, the TD.TO Shares measure, and the TD.TO Price measure simultaneously.
-    Select the "Dual combination" plot type in the "Show Me" panel.
-    Make SUM(TD.TO Shares) a dimension in the Rows shelf by right-clicking it and selecting "Dimension".
-    Make SUM(TD.TO Price) a dimension in the Rows shelf by right-clicking it and selecting "Dimension".
-    Convert YEAR(Date) to DAY(Date) by right-clicking it in the Columns shelf and selecting the "Day" option.
-    Click the "All" marks card, then click "Color", then select green.
