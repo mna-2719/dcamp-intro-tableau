@@ -13,9 +13,3 @@ Expected plot
 When you hover over a story caption, several buttons become available. Hover over the leftmost button. What is the name of that button?
 Delete
 
-Hint
-
-    Click the first story point caption and replace the text with something like "I invest internationally".
-    Click the second story point caption and replace the text with something like "And monitor currency fluctuations".
-    At the bottom of the workbook, click the "Stocks" dashboard tab.
-    Select the text button that says "View currency fluctuations" and click the "X" to delete it.
