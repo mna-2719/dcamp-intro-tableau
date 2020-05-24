@@ -9,8 +9,5 @@ To close this first chapter, you're going to build a whole visualization on your
     Build a stacked bar.
     Drag the Price measure onto the Label card and select the average instead of the sum.
 
-This exercise builds upon what you created in the previous exercise. If you lost progress, load the workbook 1_6_Bringing_it_all_together.twbx from the Workbooks folder on the Desktop.
-
-
 What is the highest average price for shared rooms?
 1250
