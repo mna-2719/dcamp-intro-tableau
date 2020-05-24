@@ -13,10 +13,3 @@ Expected plot
 What is the name of the button directly below <strong>New story point</strong> when in a story sheet?
 Blank
 
-Hint
-
-    At the bottom of the workbook, click the "New Story" icon.
-    Right-click the new tab that appears and click "Rename" then name it "My Portfolio".
-    From the left, drag the "Stocks" dashboard over to the right.
-    Click "Blank" under "New story point" in the top-left corner.
-    From the left, drag the "Currency and Value" dashboard over to the right.
