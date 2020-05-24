@@ -1,6 +1,6 @@
 Forecasting
 
-Let's do some forecasting. This time, you are tasked with forecasting the number of births in Portugal for the next year. Below you can see what the resulting visualization should look like:
+Let's do some forecasting. This time, you are tasked with forecasting the number of births in Portugal for the next year.
 
 To build this line chart you need to:
 
