@@ -11,10 +11,3 @@ If you lost progress, load the workbook 1_3_Segmenting_by_room_type.twbx from th
 
 How many days on average were private rooms occupied in Manhattan?
 189
-
-
-Hint
-
-    To remove a Dimension or Measure, just drag it out of the pane. Dragging a Dimension or Measure will show a rectangle below your mouse. When a red cross appears on the top right of that rectangle, you can release and the Dimension or Measure will be removed from the Field.
-    From Measures, drag Days Occupied In 2019 to the Text Marks Card.
-    To modify the measure from Sum to Average just proceed like you did in the previous exercise: On the Marks card, right-click on SUM(Days Occupied in 2019) and change the Measure from Sum to Average.
