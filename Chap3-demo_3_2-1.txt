@@ -12,9 +12,6 @@ To build this map you need to:
 Looking at your map, you should be able to answer the following question.
 
 Was the population growth of the United Kingdom positive or negative?
-
-
 Possible Answers
-
     Negative
     Positive
